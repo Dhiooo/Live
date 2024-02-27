@@ -13,7 +13,7 @@ public class Main {
 
 
         //output awal yang akan ditampilkan untuk user
-        System.out.println("Welcome to the UMM Library System");
+        System.out.println("Welcome to the UMM Library System");2
         System.out.println("Who are you again??:");
         System.out.println("1. Admin");
         System.out.println("2. Student");
